@@ -2,7 +2,7 @@
 
 Your tasks are...
 
-1. Load the file of rugby game stats
+1. Load the file of rugby game stats `data/rugby-games.csv`
 2. Build a set of records of games
 3. Calculate the team with the highest number of tries
 4. Calculate the team with the highest number of penalties
