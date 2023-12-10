@@ -7,4 +7,4 @@ Your tasks are...
 3. Print the team with the highest number of tries
 4. Print the team with the highest number of penalties
 5. Output a file containing the league table (team, games played, points)
-6. Output a file same as step 5 adding a column for points difference
+6. Output a file, the same as step 5, also adding a column for points difference
